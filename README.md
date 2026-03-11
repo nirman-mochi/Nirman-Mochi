@@ -21,7 +21,6 @@ Currently pursuing B.Tech in Artificial Intelligence at Parul University, Vadoda
 4. ☕ Ricco Café Website
 
 📌 currently
-
-📚 Learning AI/ML — going through Python, Math & Data Analysis
-🛠️ Building projects that merge AI with great design
-🎮 Exploring game development on the side
+1. 📚 Learning AI/ML — going through Python, Math & Data Analysis
+2. 🛠️ Building projects that merge AI with great design
+3. 🎮 Exploring game development on the side
