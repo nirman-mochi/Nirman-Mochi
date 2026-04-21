@@ -1,4 +1,4 @@
-I'm an 18-year-old AI student who builds at the intersection of intelligence and design. I care about things that are fast, beautiful, and actually useful — whether that's a web app, a game, or a machine learning model.
+I'm an 19-year-old AI-ML student who builds at the intersection of intelligence and design. I care about things that are fast, beautiful, and actually useful — whether that's a web app, a game, or a machine learning model.
 Currently pursuing B.Tech in Artificial Intelligence at Parul University, Vadodara.
 
 🔧 what i work on
